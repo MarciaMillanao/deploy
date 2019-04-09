@@ -1,0 +1,20 @@
+/* Acá va tu código */
+body{
+  text-align: center;
+}
+
+#mensaje{
+  padding: 2%;
+  font-size: 14px;
+}
+
+#guardar_msje{
+  background-color: aquamarine;
+  border-radius: 10px;
+  padding: 2%;
+  font-size: 14px;
+}
+
+li{
+  text-align: left;
+}
